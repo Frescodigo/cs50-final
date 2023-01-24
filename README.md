@@ -1,4 +1,2 @@
 # Weekly Run Planner
-**By David Macdonald**
-Created as final project submission for CS50
----
+Created by **David Macdonald** as a final project submission for the **CS50** course.
